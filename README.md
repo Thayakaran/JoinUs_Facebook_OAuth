@@ -21,5 +21,5 @@ This Facebook_OAuth web application implemented using MAVEN for OAuth using Face
 > find your application in the browser.
 
 
-## Go to the following blogspot for more details... 
-> ### http://srisathveegan.blogspot.com/2018/10/develop-facebook-app-using-oauth.html
+## Read the following blogspot for more details... 
+> ### https://thayakaran14.blogspot.com/2019/09/oauth.html
